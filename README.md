@@ -56,6 +56,7 @@ This project demonstrates how machine learning regression models can estimate Ba
 *Note: Predictions are estimates and may differ from actual market prices.*
 
 
-## Streamlit deployment link-Local URL: http://localhost:8502 Network URL: http://192.168.1.3:8502
+## Streamlit deployment link-
+Local URL: http://localhost:8502 Network URL: http://192.168.1.3:8502
 
 
