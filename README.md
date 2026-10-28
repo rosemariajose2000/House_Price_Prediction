@@ -54,3 +54,8 @@ Gradient Boosting achieved the highest R² score and lowest RMSE among the teste
 This project demonstrates how machine learning regression models can estimate Bangalore house prices. Gradient Boosting performed best based on R² and RMSE, achieving an R² score of approximately 64.10%.
 
 *Note: Predictions are estimates and may differ from actual market prices.*
+
+
+## Streamlit deployment link-Local URL: http://localhost:8502 Network URL: http://192.168.1.3:8502
+
+
